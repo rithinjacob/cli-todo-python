@@ -11,6 +11,8 @@ This was my comeback project as I began rebuilding my coding skills.
 
 ## How to Run
 
+## How to Run
+
 ```bash
 python3 main.py
 
